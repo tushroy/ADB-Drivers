@@ -1,5 +1,5 @@
 ADB-Driver Project
 ===================
 
-Android Drivers for local mobile phone brands available on Bangladesh.
+Android Drivers(Windows) for local mobile phone brands available on Bangladesh.
 Symphony, Walton, Micromax

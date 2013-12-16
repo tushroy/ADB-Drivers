@@ -1,4 +1,4 @@
-ADB-DRiver Project
+ADB-Driver Project
 ===================
 
 Android Drivers for local mobile phone brands available on Bangladesh.
